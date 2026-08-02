@@ -1,0 +1,7 @@
+﻿subproceso,cantidad_minxpallet,cantidad_envioxlinea,diaristas
+descarga,3,0,si
+coniexion_in,5,0,si
+conexion_out,5,0,si
+despachador,2,0,no
+sport small,0,1200,si
+sport heavy,0,390,si

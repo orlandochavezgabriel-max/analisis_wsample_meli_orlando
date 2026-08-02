@@ -1,0 +1,5 @@
+﻿KPI,cantidad,unidad
+spp,80,pz x pallet
+ocup_sort,50000,envios
+cap_sort,16,lineas simultaneas
+lineas_sort,25,personas por linea 
